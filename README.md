@@ -1,3 +1,3 @@
 # OpenDataScience course
  <p>Datas, files and homeworks of course "OpenDataCourse".</p>
-<p>Links on <a href="https://github.com/Yorko/mlcourse.ai">GitHub</a>, and <a href="https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl">YouTube</a></p>
+<p>Links on <a target="new_blank" href="https://github.com/Yorko/mlcourse.ai">GitHub</a>, and <a target="new_blank" href="https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl">YouTube</a></p>
